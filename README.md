@@ -8,7 +8,8 @@ This is a project on AI-driven system using Azure to forecast demand and optimiz
 ***Demo Video:***
 https://github.com/user-attachments/assets/6eea2158-29fb-4715-9f94-ec6b47df53d4  
 
-This project implements an end-to-end cloud-based forecasting system designed to predict Azure Compute and Storage demand. The workflow integrates multi-cloud data ingestion, scalable storage, advanced feature engineering, machine learning model training, and Power BI–based visualization to support Azure’s capacity planning and supply chain decision-making.  
+This project implements an end-to-end cloud-based forecasting system designed to predict Azure Compute and Storage demand. The workflow integrates multi-cloud data ingestion, scalable storage, advanced feature engineering, machine learning model training, and Power BI–based visualization to support Azure’s capacity planning and supply chain decision-making.     
+
 <img width="1000" height="342" alt="azure" src="https://github.com/user-attachments/assets/afbbdd90-504f-4193-b094-a3078a6145d0" />   
 
 ***1. Data Sources***
@@ -19,7 +20,7 @@ Snowflake DB – provides structured enterprise usage and infrastructure data.
 Google Cloud Platform (GCP) – supplies external cloud usage signals and demand indicators.
 Render API – provides API-level real-time consumption metrics. These diverse sources create a rich dataset combining internal and external demand drivers.  
 
-<img width="1120" height="268" alt="image" src="https://github.com/user-attachments/assets/af9c4fdf-6df3-44df-9beb-2b555a8b2afa" />   <img width="1120" height="268" alt="image" src="https://github.com/user-attachments/assets/ff6a0387-0562-4867-a2d9-e0289a1570a1" />   <img width="1120" height="268" alt="image" src="https://github.com/user-attachments/assets/97055d3d-1f9c-4cfe-8d2d-a3dbb370f8d7" />   
+<img width="1120" height="268" alt="image" src="https://github.com/user-attachments/assets/af9c4fdf-6df3-44df-9beb-2b555a8b2afa" />    
 
 
 ***2. Data Ingestion Layer***
@@ -37,7 +38,7 @@ All incoming data is ingested through:
 + Stores data in hierarchical folders for easy integration with Databricks This ensures scalable, fault-tolerant data handling capable of growing with Azure’s infrastructure signals.
 
 
-<img width="961" height="349" alt="image" src="https://github.com/user-attachments/assets/7e27f470-3a72-47b4-a94d-a820fa5d2102" />   <img width="961" height="349" alt="image" src="https://github.com/user-attachments/assets/33c31985-bffd-4d11-95bd-7852afefe99a" />   
+<img width="961" height="349" alt="image" src="https://github.com/user-attachments/assets/7e27f470-3a72-47b4-a94d-a820fa5d2102" />  
 
 ***3. Data Processing Layer (Azure Databricks)***
 
