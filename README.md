@@ -8,7 +8,9 @@ This is a project on AI-driven system using Azure to forecast demand and optimiz
 ***Demo Video:***
  
 
-https://github.com/user-attachments/assets/7d683407-7851-4d31-9fe4-ed663a79967d
+https://github.com/user-attachments/assets/f8fd67d3-7374-4792-85bb-43661b796f60
+
+
 
  
 
