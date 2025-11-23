@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: demand-forecast-api
+    env: docker
+    plan: free
+    dockerfilePath: Dockerfile
+    autoDeploy: true
+    healthCheckPath: /
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"
