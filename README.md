@@ -6,7 +6,11 @@ This is a project on AI-driven system using Azure to forecast demand and optimiz
 ![Architecture](https://github.com/user-attachments/assets/7be85a91-cd0b-47dd-ae5c-326cc060cfa4)
 
 ***Demo Video:***
-<iframe https://github.com/user-attachments/assets/6eea2158-29fb-4715-9f94-ec6b47df53d4 /> </iframe>  
+ 
+
+https://github.com/user-attachments/assets/7d683407-7851-4d31-9fe4-ed663a79967d
+
+ 
 
 This project implements an end-to-end cloud-based forecasting system designed to predict Azure Compute and Storage demand. The workflow integrates multi-cloud data ingestion, scalable storage, advanced feature engineering, machine learning model training, and Power BI–based visualization to support Azure’s capacity planning and supply chain decision-making.     
 
